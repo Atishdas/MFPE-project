@@ -1,0 +1,310 @@
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.Development.json
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.json
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.exe
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.deps.json
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.json
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.dev.json
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\ref\LoanMangementMicroService.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.pdb
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.AssemblyReference.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfoInputs.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfo.cs
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CoreCompileInputs.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cs
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.Manifest.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.xml
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\scopedcss\bundle\LoanMangementMicroService.styles.css
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.RazorTargetAssemblyInfo.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CopyComplete
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\ref\LoanMangementMicroService.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.pdb
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.genruntimeconfig.cache
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.config
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.config
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.Development.json
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.json
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.exe
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.deps.json
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.json
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.dev.json
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\ref\LoanMangementMicroService.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.AssemblyReference.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfoInputs.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfo.cs
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CoreCompileInputs.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.Manifest.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.xml
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\scopedcss\bundle\LoanMangementMicroService.styles.css
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.RazorTargetAssemblyInfo.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CopyComplete
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\ref\LoanMangementMicroService.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.genruntimeconfig.cache
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Humanizer.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.config
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.exe
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.deps.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.dev.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\ref\LoanMangementMicroService.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfo.cs
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.xml
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\scopedcss\bundle\LoanMangementMicroService.styles.css
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CopyComplete
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\ref\LoanMangementMicroService.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.genruntimeconfig.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.config
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.Development.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.exe
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.deps.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.dev.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\ref\LoanMangementMicroService.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Humanizer.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.AssemblyReference.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfoInputs.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfo.cs
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CoreCompileInputs.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.Manifest.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.xml
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\scopedcss\bundle\LoanMangementMicroService.styles.css
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.RazorTargetAssemblyInfo.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CopyComplete
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\ref\LoanMangementMicroService.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.genruntimeconfig.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.config
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\appsettings.json
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.exe
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.deps.json
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.json
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.runtimeconfig.dev.json
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\ref\LoanMangementMicroService.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\LoanMangementMicroService.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\log4net.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.AssemblyReference.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfoInputs.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.AssemblyInfo.cs
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CoreCompileInputs.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.Manifest.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\staticwebassets\LoanMangementMicroService.StaticWebAssets.xml
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\scopedcss\bundle\LoanMangementMicroService.styles.css
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.csproj.CopyComplete
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\ref\LoanMangementMicroService.dll
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.pdb
+C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService\obj\Debug\net5.0\LoanMangementMicroService.genruntimeconfig.cache

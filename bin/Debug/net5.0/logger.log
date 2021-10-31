@@ -1,0 +1,650 @@
+2021-10-20 15:19:28,502 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:19:28,523 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:19:28,527 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:21:57,748 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:21:57,769 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:21:57,771 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:27:01,000 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:27:01,023 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:27:01,028 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:27:16,176 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - get loan details called
+2021-10-20 15:48:53,201 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:48:53,245 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:48:53,248 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:49:04,797 [14] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 15:51:15,687 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:51:15,744 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:51:15,752 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:51:31,167 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 15:54:39,008 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 15:54:39,020 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 15:54:39,023 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 15:54:54,971 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 15:56:14,246 [15] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 16:16:26,964 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 16:16:27,009 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 16:16:27,016 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 16:17:55,017 [14] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 16:18:15,545 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 16:40:02,563 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 16:40:02,592 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 16:40:02,595 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 16:41:10,414 [12] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 16:41:19,617 [16] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed
+2021-10-20 17:56:16,543 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 17:56:16,600 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 17:56:16,604 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 17:56:17,800 [9] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:47:25,772 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:47:25,817 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:47:25,824 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:47:54,398 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:47:54,472 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:47:54,484 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:47:57,103 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:50:42,423 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:50:42,468 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:50:42,473 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:50:43,624 [5] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:52:11,210 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:52:11,234 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:52:11,237 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:52:11,904 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/LoanManagement/saveCollaterals" for actions - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService),LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:52:58,603 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:52:58,620 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:52:58,623 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:55:27,143 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:55:27,159 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:55:27,161 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:55:27,341 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:55:27,634 [9] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:58:45,124 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:58:45,219 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:58:45,222 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 21:58:45,917 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 21:59:22,858 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 21:59:22,888 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 21:59:22,892 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:00:37,227 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:00:37,272 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:00:37,282 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:00:38,396 [8] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 22:01:42,952 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:01:42,995 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:01:43,001 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:08:57,699 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:08:57,744 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:08:57,750 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:09:43,206 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:09:43,225 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:09:43,228 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:10:35,354 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:10:35,377 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:10:35,382 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:53:46,594 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:53:46,708 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:53:46,710 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:54:00,303 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  101
+2021-10-20 22:55:41,700 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 22:55:41,724 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 22:55:41,727 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 22:55:55,300 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  10
+2021-10-20 22:56:07,072 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  10
+2021-10-20 22:56:08,616 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  10
+2021-10-20 22:56:16,218 [6] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  101
+2021-10-20 22:56:59,613 [15] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-20 22:57:52,807 [23] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-20 23:11:11,251 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 23:11:11,261 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 23:11:11,264 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-20 23:11:25,772 [9] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-20 23:21:22,183 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 23:21:22,202 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 23:21:22,205 [1] INFO Microsoft.Hosting.Lifetime - Content root path: D:\Colateral Loan Mangement system\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 07:05:09,403 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 07:05:09,570 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 07:05:09,576 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 07:06:35,508 [15] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-21 07:09:45,132 [10] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-21 07:25:04,259 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-21 07:28:32,250 [15] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-21 07:37:29,323 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 07:37:29,343 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 07:37:29,346 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 07:37:51,485 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  101
+2021-10-21 12:36:54,747 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 12:36:54,797 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 12:36:54,800 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 19:19:26,095 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 19:19:26,201 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 19:19:26,205 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 19:19:44,924 [5] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-21 20:21:13,412 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:21:13,524 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:21:13,527 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:22:14,473 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:22:14,492 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:22:14,498 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:23:29,528 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:23:29,548 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:23:29,551 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:26:13,677 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:26:13,696 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:26:13,700 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:27:39,924 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:27:39,943 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:27:39,946 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:29:24,850 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:29:24,871 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:29:24,874 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-21 20:30:19,028 [12] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of RealEstate
+2021-10-21 20:30:24,631 [12] INFO LoanMangementMicroService.Controllers.LoanManagementController - Error Occured.Exception Message: Unable to cast object of type 'LoanMangementMicroService.DTO.CollateralLoanRealEstateDto' to type 'LoanMangementMicroService.Models.CollateralLoanRealEstate'.
+2021-10-21 20:40:42,230 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-21 20:40:42,251 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-21 20:40:42,254 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-22 15:04:19,249 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 15:04:19,289 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 15:04:19,292 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-22 15:06:20,537 [14] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-22 15:43:47,266 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 15:43:47,362 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 15:43:47,371 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-22 15:51:47,328 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 15:51:47,350 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 15:51:47,354 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-22 21:00:28,545 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 21:00:28,610 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 21:00:28,614 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\LoanMangementMicroService\LoanMangementMicroService
+2021-10-22 21:01:31,809 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-22 21:02:25,001 [18] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-23 14:16:34,543 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-23 14:16:34,831 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-23 14:16:34,841 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-23 14:20:11,041 [15] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'collateralLoansDb' on server 'DESKTOP-TTEMQ1U'.
+2021-10-23 14:20:13,602 [15] ERROR Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'LoanMangementMicroService.DBHandler.LoanManagementContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-10-23 14:22:19,092 [15] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at LoanMangementMicroService.Controllers.LoanManagementController.CustomerLoans(Int32 custId) in C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\Controllers\LoanManagementController.cs:line 37
+   at lambda_method6(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-10-23 14:23:33,815 [23] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'collateralLoansDb' on server 'DESKTOP-TTEMQ1U'.
+2021-10-23 14:23:37,979 [23] ERROR Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'LoanMangementMicroService.DBHandler.LoanManagementContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-10-23 14:24:02,109 [23] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at LoanMangementMicroService.Controllers.LoanManagementController.CustomerLoans(Int32 custId) in C:\Users\user\source\repos\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService\Controllers\LoanManagementController.cs:line 37
+   at lambda_method6(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-10-25 09:42:00,401 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 09:42:00,534 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 09:42:00,543 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 09:55:19,805 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 09:55:19,891 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 09:55:19,903 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 10:03:57,939 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 10:03:57,982 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 10:03:57,986 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 10:04:14,856 [6] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:04:17,856 [5] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  203
+2021-10-25 10:05:17,696 [9] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:05:54,858 [5] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'collateralLoansDb' on server 'DESKTOP-TTEMQ1U'.
+2021-10-25 10:05:54,858 [9] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'collateralLoansDb' on server 'DESKTOP-TTEMQ1U'.
+2021-10-25 10:08:57,636 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 10:08:57,653 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 10:08:57,657 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 10:10:03,513 [14] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:12:15,335 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 10:12:15,356 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 10:12:15,359 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 10:12:26,344 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:13:17,409 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:26:12,248 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 10:26:12,279 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 10:26:12,304 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 10:27:28,299 [12] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:28:03,711 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:28:23,964 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:28:41,915 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:29:01,046 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:29:41,134 [17] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:29:43,523 [17] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:30:08,498 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:30:18,197 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:30:19,770 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:31:15,687 [25] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:31:42,443 [25] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:32:00,726 [26] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:32:31,843 [29] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:32:52,500 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:32:58,932 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:33:09,181 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:33:19,302 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:33:31,115 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:34:09,881 [30] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:36:13,176 [35] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:37:49,155 [40] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 10:38:03,271 [40] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:38:30,757 [45] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:39:42,938 [46] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:40:55,957 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:00,186 [49] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:05,179 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:07,153 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:11,211 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:17,553 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:28,814 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:35,448 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:41:44,436 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:42:29,841 [52] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:42:55,593 [52] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  203
+2021-10-25 10:42:59,632 [52] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  15
+2021-10-25 10:43:06,210 [52] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:43:17,626 [52] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:43:40,511 [53] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:44:18,497 [53] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:44:21,749 [53] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:45:06,162 [59] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:45:20,723 [59] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 10:45:23,204 [59] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 20:46:40,188 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 20:46:40,315 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 20:46:40,323 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-25 20:49:39,052 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 20:54:08,571 [8] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:36,770 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:38,797 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:40,519 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:41,647 [23] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:44,646 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:54:46,803 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:55:05,327 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:55:08,670 [21] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:57:21,535 [27] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:57:27,870 [27] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:59:39,605 [31] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 20:59:48,986 [31] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:00:37,487 [34] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:00:39,185 [34] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:00:46,499 [36] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:01:41,815 [44] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:01:50,858 [41] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:02:15,902 [46] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  202
+2021-10-25 21:03:08,476 [48] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 21:16:42,371 [56] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 21:17:47,055 [55] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-25 21:19:56,452 [49] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  203
+2021-10-25 21:19:59,975 [49] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  265
+2021-10-25 21:20:01,643 [49] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  265
+2021-10-25 21:20:14,043 [49] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  236
+2021-10-25 21:21:39,730 [51] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  236
+2021-10-25 21:22:06,864 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  213
+2021-10-25 21:22:10,791 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  210
+2021-10-25 21:22:14,925 [47] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  209
+2021-10-25 21:23:33,328 [42] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  210
+2021-10-25 21:23:43,746 [42] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  209
+2021-10-25 21:23:49,929 [42] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  210
+2021-10-26 12:51:34,736 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-26 12:51:35,071 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-26 12:51:35,095 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-26 12:52:27,543 [20] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-26 13:58:42,031 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-26 13:58:56,448 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-26 15:28:33,664 [5] INFO LoanMangementMicroService.Controllers.LoanManagementController - Invalid value is entered 0
+2021-10-26 15:46:14,469 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Invalid value is entered 0
+2021-10-26 15:46:37,647 [25] INFO LoanMangementMicroService.Controllers.LoanManagementController - Invalid value is entered 0
+2021-10-26 15:46:40,706 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  9
+2021-10-26 15:46:42,722 [4] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  9
+2021-10-26 15:48:48,534 [27] INFO LoanMangementMicroService.Controllers.LoanManagementController - Invalid value is entered 0
+2021-10-30 19:21:56,721 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-30 19:21:56,816 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-30 19:21:56,819 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-30 19:22:20,958 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint LoanMangementMicroService.Controllers.LoanManagementController.SaveCollaterals (LoanMangementMicroService) contains authorization metadata, but a middleware was not found that supports authorization.
+Configure your application startup by adding app.UseAuthorization() inside the call to Configure(..) in the application startup code. The call to app.UseAuthorization() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingAuthMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.EvaluateAndApplyPolicy(HttpContext context, CorsPolicy corsPolicy)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context, ICorsPolicyProvider corsPolicyProvider)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-30 19:23:17,371 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-30 19:23:17,391 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-30 19:23:17,396 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\LoanMangementMicroService\LoanMangementMicroService
+2021-10-30 19:23:47,688 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - saved the collaterals of CashDeposite
+2021-10-31 16:32:13,930 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-31 16:32:13,982 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-31 16:32:13,991 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\Atish\OneDrive\Desktop\project\Final\LoanMangementMicroService\LoanMangementMicroService
+2021-10-31 16:32:38,822 [13] INFO LoanMangementMicroService.Controllers.LoanManagementController - Get Loan details is Accesed  201
+2021-10-31 16:32:57,935 [13] ERROR Microsoft.EntityFrameworkCore.Database.Connection - An error occurred using the connection to database 'collateralLoansDb' on server 'DESKTOP-TTEMQ1U'.
+2021-10-31 16:32:58,225 [13] ERROR Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'LoanMangementMicroService.DBHandler.LoanManagementContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-10-31 16:32:58,534 [13] ERROR LoanMangementMicroService.Controllers.LoanManagementController - Exception in GetLoanDetailsA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
